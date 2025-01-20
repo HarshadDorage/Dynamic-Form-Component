@@ -3,9 +3,9 @@
 # Dynamic Form Component in React with TypeScript
 
 ## Live Demo
-You can view the live demo of the project here:  
+You can view the live demo of the project here:  https://dynamic-form-component.netlify.app/
 
-[Live Demo]: https://dynamic-form-component.netlify.app/
+
 
 
 ## Brief Explanation of the Approach
