@@ -1,5 +1,37 @@
 # React + TypeScript + Vite
 
+# Dynamic Form Component in React with TypeScript
+
+## Live Demo
+You can view the live demo of the project here:  
+
+[Live Demo]: https://dynamic-form-component.netlify.app/
+
+
+## Brief Explanation of the Approach
+
+This project implements a dynamic form component in React using TypeScript, driven by a JSON schema. The form is designed to dynamically render fields such as text, number, email, checkbox, radio, select, textarea, and autocomplete based on the provided schema. 
+
+### Key Features:
+1. **Dynamic Field Rendering**: The fields are generated dynamically based on the JSON schema, making the form reusable and scalable.
+2. **Validation**: Built-in validation ensures only valid forms are submitted, with validation rules defined within the schema.
+3. **Submission Feedback**: On successful form submission, the form data is logged to the console, and a success message is displayed.
+4. **Styling**: The layout and design follow the provided screenshot using Ant Design components for consistency and responsiveness.
+5. **TypeScript**: Strong typing ensures robust and error-free code.
+
+---
+
+## Steps to Run the Project Locally
+
+1. **Clone the Repository**  
+   ```bash
+   git clone <repository_url>
+   cd <repository_folder>
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
